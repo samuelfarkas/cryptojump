@@ -15,6 +15,9 @@
 ## What about backend?
 If you tried to play this game, you found out it has a leaderboard, currency rates etc. The back-end is made in `Lumen framework`, but it is not available on `GitHub`. (but, if you really want to look at it, feel free to send me a message).
 
+## Behind the scenes
+If you are interested in details of the game, check [About page](https://cryptojump.samuelfarkas.eu/about)
+
 ## Authors
 [Samuel Farkas](https://samuelfarkas.eu/) - *back-end, web, game design and weird naming*
 
